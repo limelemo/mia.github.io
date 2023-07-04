@@ -1,0 +1,100 @@
+#pfp { 
+  height: 100px;
+  width: 100px;
+  border: solid 1px;
+  border-radius: 50px;
+}
+
+#mycarrd {
+  text-align: center;
+  height: 80px;
+  width: 150px;
+  border: solid 2px;
+  background-color: antiquewhite;
+  margin: auto;
+  font-family: times;
+  font-weight: lighter;
+  color: burlywood;
+}
+
+body {
+  background-color: peachpuff;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+  font-weight: lighter;
+  height: 30px;
+  width: 150px;
+  border: solid 1px;
+  border-radius: 20px;
+  background-color: cornsilk;
+  color: moccasin;
+  font-family: serif;
+}
+
+#intro {
+  border: solid 1px;
+  margin: auto;
+  text-align: center;
+  height: 190px;
+  width: 150px;
+  background-color: white;
+  color: rosybrown;
+  font-family: serif;
+}
+
+#pfp2 {
+  height: 100px;
+  width: 100px;
+  border: solid 1px;
+  border-radius: 50px;
+}
+
+#pr {
+    border: solid 1px;
+  margin: auto;
+  text-align: center;
+  height: 20px;
+  width: 100px;
+  background-color: white;
+  color: rosybrown;
+  font-family: serif;
+}
+
+#int {
+  border: solid 1px;
+  margin: auto;
+  height: 360px;
+  width: 160px;
+  background-color: white;
+  color: rosybrown;
+  font-family: serif;
+}
+
+#ig {
+  background-color: papayawhip;
+  color: navajowhite;
+  border: solid 3px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: serif;
+  margin: auto;
+}
+#twi {
+  background-color: papayawhip;
+  color: navajowhite;
+  border: solid 3px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: serif;
+  margin: auto;
+}
+
+#miu {
+  border: solid 1px;
+  border-radius: 20px;
+  height: 200px;
+  width: 370px;
+}
